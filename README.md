@@ -9,3 +9,10 @@ Articles will be related to iOS/Android/General Software Engineering.
 [Discovering which DispatchQueue a method is running on](https://swiftrocks.com/discovering-which-dispatchqueue-a-method-is-running-on)
 
 [Protocol-Oriented Programming](https://scotteg.github.io/protocol-oriented-programming)
+
+[Design Patterns and Principles](https://github.com/piyush6348/Design-Patterns)
+
+If you feel there are any articles/blogs that can help others related to Android/iOS/General Software Engineering.
+Please raise a PR. 
+
+Lets learn together 
