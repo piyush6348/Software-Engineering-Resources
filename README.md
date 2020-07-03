@@ -20,6 +20,8 @@ Articles will be related to iOS/Android/General Software Engineering.
 
 [Sharing Data with App Extensions iOS](https://dmtopolog.com/ios-app-extensions-data-sharing/)
 
+[Capture Lists in Swift](https://alisoftware.github.io/swift/closures/2016/07/25/closure-capture-1/)
+
 
 ### System Design
 
