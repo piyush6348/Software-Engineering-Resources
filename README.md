@@ -14,6 +14,12 @@ Articles will be related to iOS/Android/General Software Engineering.
 
 [HTTP Caching](https://roadmap.sh/guides/http-caching)
 
+[Object Serialization in iOS](https://dmtopolog.com/object-serialization-in-ios/)
+
+[Core Data Stacks comparison](https://dmtopolog.com/stranger-things-with-core-data-stacks-comparison/)
+
+[Sharing Data with App Extensions iOS](https://dmtopolog.com/ios-app-extensions-data-sharing/)
+
 
 ### System Design
 
