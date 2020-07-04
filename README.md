@@ -34,6 +34,11 @@ Articles will be related to iOS/Android/General Software Engineering.
 
 [Database Replication](https://medium.com/@pulkitent/system-design-database-replication-part-1-3dcf4a300db1)
 
+
+### Interview Questions
+
+[iOS Concurrency](https://www.tanaschita.com/posts/20200530-ios-interview-questions-and-answers-for-senior-developers-part-4/)
+
 If you feel there are any articles/blogs that can help others related to Android/iOS/General Software Engineering.
 Please raise a PR. 
 
